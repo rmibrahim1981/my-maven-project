@@ -4,24 +4,24 @@
     <p>Please fill in this form to create an new account.</p>
     <hr>
      
-    <label for="Name"><b>Your Name</b></label>
-    <input type="text" placeholder="Name" name="Riyass" id="Name" required>
+    <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Name" name="Your Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>mobile</b></label>
-    <input type="text" placeholder="Your Number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Your Email" name="email" id="email" required>
+    <input type="text" placeholder="Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="key" placeholder="Your password" name="psw" id="psw" required>
+    <input type="key" placeholder="Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="key" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <label for="psw-repeat"><b>Confirm Password</b></label>
+    <input type="key" placeholder="Confirm Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
